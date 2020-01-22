@@ -21,3 +21,5 @@ Along with many systematic improvement and stability improvements we have a few 
 - Private Rooms
 - Persistent Users 
 - Segmentation of Rooms (i.e. you could have the list of rooms you want to see)
+
+# [View ChApp hosted on heroku](https://chapp-parker.herokuapp.com/)
